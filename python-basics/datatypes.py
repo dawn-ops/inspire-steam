@@ -6,4 +6,5 @@
 first_number = 12
 second_number = 86
 
-sum_numbers = first_numbe + second _ second_number
+sum_numbers = first_number + second_number
+print(sum_numbers)
