@@ -1,0 +1,14 @@
+#name : peter mbugua
+# date : 13/02/2026
+# program to show for loop in python
+import math
+
+
+for x in range(-180,180,30):
+    print(f"cos of {x} = {math.cos(x)}")
+for x in range(-180,180,30):
+    print(f"sin of {x} = {math.sin (x)}")
+for x in range(-180,180,30):
+    print(f"sin of {x} = {math.tan (x)}")
+
+print("----------")
